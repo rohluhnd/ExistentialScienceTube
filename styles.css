@@ -1,0 +1,44 @@
+nav {
+    background-color: #0A0743;
+    height: 30px;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+}
+  
+body {
+    background-image: url("https://www.reviewofreligions.org/wp-content/uploads/2020/08/shutterstock_557126443-scaled.jpg");
+    font-size: 30px;
+}
+  
+table {
+    width: 80%; margin: 0 auto; text-align: center;
+}
+   
+a {
+    color: #F389BA;
+    text-decoration: none;
+    text-shadow: 1px 1px #8B0642;
+}
+
+label {
+  color: #F389BA;
+}
+
+h2 {
+  color: #F389BA;
+  text-align: center;
+}
+
+p {
+  color: #F389BA;
+  text-shadow: 1px 1px #8B0642;
+}
+
+.cosmos {
+    width: 80%; margin: 0 auto; text-align: center;
+}
